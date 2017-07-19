@@ -12,7 +12,6 @@ $ python Pi2Hotspot.py -i
 $ python Pi2Hotspot.py -r
 
 Usage: usage Pi2Hotspot.py [-i] [-r] [-s] [-u <ssid>] [-p <password_for_hotspot>]
-```
 Options:
   -h, --help   show this help message and exit
   -i           Install mode will modify and download necessary files
